@@ -1,0 +1,17 @@
+[33mcommit b9e7910de718e1dcb94f3853d260de028591875e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: javier <javi.spanish.dev@gmail.com>
+Date:   Fri Apr 22 21:37:07 2022 +0100
+
+    added json server
+
+[33mcommit c90a5a5d9f7fcbe6a3ed7f07a4cdd608732c1e9a[m
+Author: javier <javi.spanish.dev@gmail.com>
+Date:   Fri Apr 22 17:48:46 2022 +0100
+
+    initial
+
+[33mcommit d8a47bda6bec99055abc29db5b5399b20de8d598[m
+Author: javier <javi.spanish.dev@gmail.com>
+Date:   Thu Apr 21 08:15:37 2022 +0100
+
+    Initialize project using Create React App
